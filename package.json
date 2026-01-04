@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "githubot": "^1.0.0",
-    "hubot": "^3.0.1",
+    "hubot": "^13.0.0",
     "hubot-redis-brain": "^0.0.4",
     "moment": "^2.8.3",
     "node-schedule": "^1.0.0",
